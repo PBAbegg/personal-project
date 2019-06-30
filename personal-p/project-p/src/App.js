@@ -11,7 +11,7 @@ const Cards =() => {
           <img src="http://www.fubiz.net/wp-content/uploads/2019/01/Neil-Burnell-mystical-02.jpg" alt="" />
       </CardMedia>
       <CardText>
-        Wistman's Wood
+        Wistman's Woods
         Photo by Neil Burnell
       </CardText>
     </Card>
